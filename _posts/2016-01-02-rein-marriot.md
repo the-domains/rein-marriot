@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T14:18:28.529Z'
-dateModified: '2016-01-02T14:18:25.679Z'
+datePublished: '2016-01-02T14:23:25.968Z'
+dateModified: '2016-01-02T14:23:21.300Z'
 title: Rein Marriot
 author: []
 sourcePath: _posts/2016-01-02-rein-marriot.md
@@ -24,4 +24,6 @@ _type: Article
 ---
 # Rein Marriot
 
-Macclesfield, England.
+Macclesfield, England. 
+
+Aaron Ward/ Tobias Ward/ Nathan Luker/ Wayne Ward
