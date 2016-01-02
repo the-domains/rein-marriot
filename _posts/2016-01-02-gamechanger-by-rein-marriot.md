@@ -35,8 +35,8 @@ app_links:
     type: web
 isBasedOnUrl: 'https://www.youtube.com/watch?v=0G6Wfa5umYM'
 title: '"Gamechanger" - by Rein Marriot'
-datePublished: '2016-01-02T13:37:58.172Z'
-dateModified: '2016-01-02T13:29:11.814Z'
+datePublished: '2016-01-02T13:40:59.946Z'
+dateModified: '2016-01-02T13:39:54.145Z'
 sourcePath: _posts/2016-01-02-gamechanger-by-rein-marriot.md
 published: true
 inFeed: true
