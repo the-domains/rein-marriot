@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Rein Marriot
-    url: 'https://www.youtube.com/channel/UCB6x0EA_fxYpAtuQEtPS_kg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=0G6Wfa5umYM'
+inLanguage: en
+starred: false
 keywords:
   - marriott
   - duration
@@ -21,7 +17,13 @@ keywords:
   - job
   - '415'
 description: 'Northwest Slackfest 2015 - UK trick & mid-line Slacklining Festival'
-inLanguage: en
+datePublished: '2016-01-02T13:54:59.656Z'
+dateModified: '2016-01-02T13:54:33.963Z'
+author:
+  - name: Rein Marriot
+    url: 'https://www.youtube.com/channel/UCB6x0EA_fxYpAtuQEtPS_kg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=0G6Wfa5umYM&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=0G6Wfa5umYM&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=0G6Wfa5umYM'
 title: '"Gamechanger" - by Rein Marriot'
-datePublished: '2016-01-02T13:40:59.946Z'
-dateModified: '2016-01-02T13:39:54.145Z'
 sourcePath: _posts/2016-01-02-gamechanger-by-rein-marriot.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
