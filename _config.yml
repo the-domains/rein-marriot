@@ -1,7 +1,7 @@
 name: 'Rein Marriot '
 favicon: null
 layout_spectrum: 0.014337804401293397
-typography_spectrum: 0.9817970397416502
+typography_spectrum: 0.4264
 title: Aaron Ward/Tobais Ward/Wayne Ward/Nathan Luker
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ffffbf'
     - '#b8c6c9'
     - '#b17847'
-  brandStrength: 0.75
+  brandStrength: 0.875
   lightness: 0.7756487955339253
-  saturation: 0.2764406513888389
-  rhythmicContrast: 0.3891884880140424
+  saturation: 0.0625
+  rhythmicContrast: 0.75
 purpose: []
