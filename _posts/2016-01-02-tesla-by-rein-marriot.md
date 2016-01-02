@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Rein Marriot
-    url: 'https://www.youtube.com/channel/UCB6x0EA_fxYpAtuQEtPS_kg'
-    avatar: {}
-related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-  domain: www.youtube.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=CiqQJM9545I'
+inLanguage: en
+starred: false
 keywords:
   - marriot
   - duration
@@ -21,7 +17,13 @@ keywords:
   - keleti
   - gamechanger
 description: "Rein Marriot's third release Please give this a like if you enjoyed it, and don't forget to subscribe!"
-inLanguage: en
+datePublished: '2016-01-02T13:58:43.602Z'
+dateModified: '2016-01-02T13:58:29.002Z'
+author:
+  - name: Rein Marriot
+    url: 'https://www.youtube.com/channel/UCB6x0EA_fxYpAtuQEtPS_kg'
+    avatar: {}
+related: []
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=CiqQJM9545I&feature=applinks'
     type: ios
@@ -33,15 +35,15 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=CiqQJM9545I&feature=applinks'
     type: web
-isBasedOnUrl: 'https://www.youtube.com/watch?v=CiqQJM9545I'
 title: '"Tesla" - by Rein Marriot'
-datePublished: '2016-01-02T13:28:12.733Z'
-dateModified: '2016-01-02T13:22:19.918Z'
 sourcePath: _posts/2016-01-02-tesla-by-rein-marriot.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
 _type: VideoObject
 _context: 'http://schema.org'
 
