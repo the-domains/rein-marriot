@@ -6,20 +6,22 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-02T14:12:06.537Z'
-dateModified: '2016-01-02T14:11:58.237Z'
+datePublished: '2016-01-02T14:18:28.529Z'
+dateModified: '2016-01-02T14:18:25.679Z'
 title: Rein Marriot
 author: []
+sourcePath: _posts/2016-01-02-rein-marriot.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-02-rein-marriot.md
-published: true
 url: rein-marriot/index.html
 _type: Article
 
 ---
 # Rein Marriot
+
+Macclesfield, England.
