@@ -1,27 +1,23 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: ''
-datePublished: '2016-01-02T14:28:52.764Z'
-dateModified: '2016-01-02T14:28:48.265Z'
-title: Rein Marriot
-author: []
+datePublished: '2016-08-28T18:52:24.085Z'
 sourcePath: _posts/2016-01-02-rein-marriot.md
-published: true
+inFeed: true
+isBasedOnUrl: null
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
-url: rein-marriot/index.html
-_type: Article
+hasPage: false
+keywords: []
+author: []
+via: {}
+dateModified: '2016-08-28T18:52:23.196Z'
+title: Rein Marriot
+publisher: {}
+description: 'A band of musicians.  Macclesfield, England.'
+inLanguage: null
+inNav: false
+starred: true
+_type: Blurb
 
 ---
 # Rein Marriot
 
-Macclesfield, England.
+A band of musicians. Macclesfield, England.
